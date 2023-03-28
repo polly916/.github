@@ -5,7 +5,7 @@
 <h1 align="center">Metallic</h1>
 
 ### About
-This is the source code for Metallic
+A powerful web proxy build for speed and customization.
 
 ### Developers
 - [Nebelung](https://github.com/Nebelung-Dev) - Owner and main developer
