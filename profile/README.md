@@ -1,5 +1,5 @@
 <p align="center">
-<img width="150px" src="https://raw.githubusercontent.com/Metallic-Web/Metallic/main/public/logos/logo512.png">
+  <img width="150px" src="https://raw.githubusercontent.com/cognetwork-dev/Metallic/main/public/assets/logo.svg">
 </p>
 
 <h1 align="center">Metallic</h1>
